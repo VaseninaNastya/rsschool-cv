@@ -1,10 +1,9 @@
-#rsschool-cv#
-##Beginner javascript developer##
-*Resume*
+Beginner javascript developer resume
+========================
 1. Vasenina Anastasiya
 2. Contact Info:
-    1. Email: amedeo_@mail.ru
-    2. Github: @VaseninaNastya
+    * Email: amedeo_@mail.ru
+    * Github: @VaseninaNastya
 3. The main goal: I am looking for an internship in HTML, CSS, JavaScript and React JS.
 4. Skills: HTML, CSS, Bootstrap, Git, JavaScript, React JS
 6. Experience:
