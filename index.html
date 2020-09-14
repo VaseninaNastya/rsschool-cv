@@ -10,63 +10,77 @@
         font-family: Verdana, Arial, Helvetica, sans-serif; 
         color: #333366;
         }
+        li {
+        list-style-type: none; /* Убираем маркеры */
+        }
+        ul {
+        margin-left: 0; /* Отступ слева в браузере IE и Opera */
+        padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+        }
     </style>
     <body>
     <article style="width: 1024px; margin: auto;">
         <header>
-            <h1>Beginner javascript developer resume</h1>
+            <h1>Vasenina Anastasiya</h1>
+            <h3>Beginner javascript developer resume</h3>
         </header>
-        <img height="300px" width="300px" src="./photo.jpg" alt="avatar">
-        <ol>
-            <li>
-                Vasenina Anastasiya
-            </li>
-            <li>
-                Contact Info:
-                <ul>
+        <div style="display: flex;">
+            <div>
+                <img height="300px" width="300px" src="./photo.jpg" alt="avatar">
+            </div>
+            <div>
+                <ol style="margin-top: 0px;">
                     <li>
-                        Email: amedeo_@mail.ru
+                        <h3 style="margin-top: 0px;">Contact Info</h3>>
+                        <ul>
+                            <li>
+                                Email: amedeo_@mail.ru
+                            </li>
+                            <li>
+                                Github: https://github.com/VaseninaNastya
+                            </li>
+                        </ul>
                     </li>
                     <li>
-                        Github: https://github.com/VaseninaNastya
-                    </li>
-                </ul>
-            </li>
-            <li>
-                The main goal: I am looking for an internship in HTML, CSS, JavaScript and React JS.
-            </li>
-            <li>
-                Skills: HTML, CSS, Bootstrap, Git, JavaScript, React JS
-            </li>
-            <li>
-                Experience:
-                <ul>
-                    <li>
-                        My pet-project: https://github.com/VaseninaNastya/underConstruction
+                        <h3>The main goal</h3>> 
+                        I am looking for an internship in HTML, CSS, JavaScript and React JS.
                     </li>
                     <li>
-                        My best test-task: https://github.com/VaseninaNastya/super_kassa_test
-                    </li>
-                </ul>
-            </li>
-            <li>
-                Education:
-                <ul>
-                    <li>
-                        2007-2012: Saint Petersburg State University of Architecture and Civil Engineering
+                        <h3>Skills</h3>
+                        HTML, CSS, Bootstrap, Git, JavaScript, React JS
                     </li>
                     <li>
-                        2019: HTML academy courses
+                        <h3>Experience</h3>
+                        <ul>
+                            <li>
+                                My pet-project: https://github.com/VaseninaNastya/underConstruction
+                            </li>
+                            <li>
+                                My best test-task: https://github.com/VaseninaNastya/super_kassa_test
+                            </li>
+                        </ul>
                     </li>
                     <li>
-                        2020: React JS courses
+                        <h3>Education</h3>
+                        <ul>
+                            <li>
+                                2007-2012: Saint Petersburg State University of Architecture and Civil Engineering
+                            </li>
+                            <li>
+                                2019: HTML academy courses
+                            </li>
+                            <li>
+                                2020: React JS courses
+                            </li>
+                        </ul>
                     </li>
-                </ul>
-            </li>
-            <li>
-                English: A2
-            </li>
-        </ol>
+                    <li>
+                        <h3>English</h3>
+                        A2
+                    </li>
+                </ol>
+            </div>
+        </div>
         </article>
     </body>
 </html>
