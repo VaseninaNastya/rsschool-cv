@@ -3,7 +3,6 @@
 
 ### Beginner javascript developer resume
 
-
 - ### Contact Info
     * Email: amedeo_@mail.ru
     * Github: @VaseninaNastya
