@@ -1,16 +1,21 @@
-Beginner javascript developer resume
-========================
-1. Vasenina Anastasiya
-2. Contact Info:
+
+# Vasenina Anastasiya
+
+### Beginner javascript developer resume
+
+
+- ### Contact Info
     * Email: amedeo_@mail.ru
     * Github: @VaseninaNastya
-3. The main goal: I am looking for an internship in HTML, CSS, JavaScript and React JS.
-4. Skills: HTML, CSS, Bootstrap, Git, JavaScript, React JS
-6. Experience:
+- ### The main goal
+    * I am looking for an internship in HTML, CSS, JavaScript and React JS.
+- ###Skills: HTML, CSS, Bootstrap, Git, JavaScript, React JS
+- ### Experience
     * My pet-project: https://github.com/VaseninaNastya/underConstruction
     * My best test-task: https://github.com/VaseninaNastya/super_kassa_test
-7. Education:
+- ### Education
     * 2007-2012: Federal State Budgetary Educational Institution of Higher Education «Saint Petersburg State University of Architecture and Civil Engineering»
     * 2019: HTML academy courses
     * 2020: React JS courses
-8. English: A2
+- ### English
+    * A2
