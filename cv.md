@@ -8,7 +8,8 @@
     * Github: @VaseninaNastya
 - ### The main goal
     * I am looking for an internship in HTML, CSS, JavaScript and React JS.
-- ###Skills: HTML, CSS, Bootstrap, Git, JavaScript, React JS
+- ### Skills
+    * HTML, CSS, Bootstrap, Git, JavaScript, React JS
 - ### Experience
     * My pet-project: https://github.com/VaseninaNastya/underConstruction
     * My best test-task: https://github.com/VaseninaNastya/super_kassa_test
